@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(153, 224, 224);
+}
+h1{
+    color: blue;
+    text-shadow:1px 1px;
+    text-align: center;
+}
+h2{
+    color: blue;
+    text-shadow:1px 1px;
+    text-align: center;
+}
+.topnav {
+    background-color: bisque;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+  
+
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav div{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+
+.topnav a:hover {
+    background-color: black;
+    color: rgb(211, 150, 17);
+}
+  
+
+.topnav a.active {
+    background-color: #000000;
+    color: bisque;
+}
+header{
+    background-color: black;
+    margin-left: 27.5%;
+    margin-right: 29%;
+    margin-bottom: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    text-align: center;
+}
+
+img{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    margin: 5px;
+}
+article{
+    background-color: bisque;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+table{
+    background-color: beige;
+    border-style: double;
+    border-width: 3px;
+    border-color: black;
+    border-collapse: collapse;
+    width: auto;
+}
+
+
+form{
+    background-color: bisque;
+    border-style: double;
+    border-width: 3px;
+    border-color: black;
+    margin-left: 27.5%;
+    margin-right: 29%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: auto;
+    
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+label{
+    text-align: center;
+}
+
+
